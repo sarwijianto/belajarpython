@@ -139,9 +139,9 @@ etika.Kumpulan()
 
 
 #absen24
-from kelas_2b import rayhanprastya
-ujang = rayhanprastya.rayprastya()
-ujang.convert()
+
+
+
 
 
 #absen25
@@ -181,9 +181,9 @@ test.fmi(2000)
 
 
 #absen31
-
-
-
+from kelas_2b import anto
+anto = anto.Informasi()
+print(anto)
 
 
 #absen32
